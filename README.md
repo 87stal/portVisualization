@@ -1,5 +1,5 @@
 
-# Visualization of Port process
+# Visualization of Port working process
 Project created with Pixi.js, Tween.js and Typescript.
 
 ## Installation
